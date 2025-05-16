@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I have a Bachelor's Degree in Business Economics. Now I'm attending a master's degree program in Data Science and Business Informatics at the University of Pisa.
+I have a master's Degree in Data Science and Business Informatics at the University of Pisa.
+I'm currently a consultant, primarily working in Data Engineering.
 
-In my repositories, you will find the projects I have done with my colleagues for the university exams.
+In my repositories, you'll find personal projects I worked on with colleagues for university exams.
 <!--
 **The-Saba/The-Saba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
