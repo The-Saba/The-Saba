@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a master's Degree in Data Science and Business Informatics at the University of Pisa.
+I have a master's Degree in Data Science and Business Informatics at the University of Pisa. <\br>
 I'm currently working as Data Engineering.
 
 In my repositories, you'll find personal projects I worked on with colleagues for university exams.
